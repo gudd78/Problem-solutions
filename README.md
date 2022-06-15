@@ -1,2 +1,2 @@
-# hacker-rank-solutions
+# Problem-solutions
 program
